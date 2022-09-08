@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/retro-nes-super8/main/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/retro-nes-super8/main/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/retro-nes-super8/main/",
-	"version" : "1",
+	"version" : "2",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -5069,7 +5069,7 @@
 			"md5": "6f75bada53b6b9aae03ca89d7480fab7"
 		},
 		"src/NES/tracking.js": {
-			"md5": "13d734d1a0bea5e1217735a69012a7d5"
+			"md5": "b74ef64c0106e0a6a168f88af32d3c1a"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "d43ca569a0f34b1e6fe32b58e6806e7c"
