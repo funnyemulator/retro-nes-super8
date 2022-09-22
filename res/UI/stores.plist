@@ -73,7 +73,7 @@
 			<key>store/btn_list_noselect.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1157,1},{240,240}}</string>
+				<string>{{693,1},{240,240}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -84,7 +84,7 @@
 			<key>store/btn_list_select.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{693,1},{240,240}}</string>
+				<string>{{693,243},{240,240}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -282,7 +282,7 @@
 			<key>store/star_half.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{693,243},{158,158}}</string>
+				<string>{{935,321},{158,158}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -388,6 +388,17 @@
 				<false />
 				<key>sourceSize</key>
 				<string>{128,128}</string>
+			</dict>
+			<key>store/search.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1157,1},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
 			</dict>
 		</dict>
 		<key>metadata</key>
