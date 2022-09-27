@@ -1,10 +1,10 @@
 {
-	"packageUrl" : "https://raw.githubusercontent.com/funnyemulator/retro-nes-super8/v1.2.0/",
-	"remoteManifestUrl" : "https://raw.githubusercontent.com/funnyemulator/retro-nes-super8/v1.2.0/project.manifest",
-	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/retro-nes-super8/v1.2.0/version.manifest",
-	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/retro-nes-super8/v1.2.0/download.manifest",
-	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/retro-nes-super8/v1.2.0/",
-	"version" : "3",
+	"packageUrl" : "https://raw.githubusercontent.com/funnyemulator/retro-nes-super8/v1.2.1/",
+	"remoteManifestUrl" : "https://raw.githubusercontent.com/funnyemulator/retro-nes-super8/v1.2.1/project.manifest",
+	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/retro-nes-super8/v1.2.1/version.manifest",
+	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/retro-nes-super8/v1.2.1/download.manifest",
+	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/retro-nes-super8/v1.2.1/",
+	"version" : "1",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -5534,7 +5534,7 @@
 			"md5": "bc9ac1ad85cb1c3d8a659988b99e008a"
 		},
 		"src/NES/Home/Home.js": {
-			"md5": "1c1042ea7324e93c008e84a27238a541"
+			"md5": "a85c00643f4df43ad1bc117219b89cd6"
 		},
 		"src/NES/Home/InfoRomLayer.js": {
 			"md5": "717ba7d43eb0e58e3056d79e77019072"
@@ -5555,13 +5555,13 @@
 			"md5": "4ce4aedef9b70804b751270f10c033fa"
 		},
 		"src/NES/Home/RemoveADSLayer.js": {
-			"md5": "ca878934825ae07e688ec8530fb5711e"
+			"md5": "8389fbe455a94c84039f163c82f5902f"
 		},
 		"src/NES/Home/Shop.js": {
 			"md5": "115ab64fab72b6c8ab758b84551019cc"
 		},
 		"src/NES/Home/StartupScene.js": {
-			"md5": "24c4d00545f8df0a51a998d61f1a9a47"
+			"md5": "73ecd24dafaf674c80066a0ff6b5c111"
 		},
 		"src/NES/initForWeb.js": {
 			"md5": "c785a44e41b7296ec26baff22bf016ab"
@@ -5579,7 +5579,7 @@
 			"md5": "57c73cf89dd0acbb1ba67f81d1587aaf"
 		},
 		"src/NES/Multiplayer/MultiplayAdapter.js": {
-			"md5": "1da5474ac37209736c74e39825de76b6"
+			"md5": "cc5a2bf3a9f59908f23e876951d72ced"
 		},
 		"src/NES/Multiplayer/MultiplayController.js": {
 			"md5": "8b8d1108ec0e3445c6881f338f258310"
@@ -5597,7 +5597,7 @@
 			"md5": "6f75bada53b6b9aae03ca89d7480fab7"
 		},
 		"src/NES/tracking.js": {
-			"md5": "f83765c370dc2808dcdfb37fbe1026d0"
+			"md5": "c2218da1667ff137cd76332ed3a01326"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "ddf95796444ad3e7c9299de2f15606fd"
