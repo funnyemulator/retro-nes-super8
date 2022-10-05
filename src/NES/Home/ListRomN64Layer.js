@@ -210,7 +210,7 @@ var ListRomN64Layer = BaseLayer.extend({
                 DataManager.getInstance().addRomRecent(infoReal.id);
                 fr.gameAdapter.startGame(intent);
 				setTimeout(()=>{
-					adsMgr.showAds();
+					adsMgr.showAdsDirect();
 				},500);
             }
             else
@@ -566,7 +566,7 @@ var DownloadPopupN64 = BaseLayer.extend({
             fr.gameAdapter.startGame(intent);
             this.removeFromParent(true);
 			setTimeout(()=>{
-                adsMgr.showAds();
+                adsMgr.showAdsDirect();
             },500);
         }
         else
